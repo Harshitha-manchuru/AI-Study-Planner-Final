@@ -1,0 +1,10 @@
+{
+  "subjects": {
+    "DBMS": ["ER Model", "Normalization", "Indexing"],
+    "OS": ["Process Scheduling", "Deadlock", "Memory Management"],
+    "CN": ["OSI Model", "TCP/IP", "Routing"]
+  },
+  "weak_topics": ["Normalization", "Deadlock"],
+  "daily_study_hours": 3,
+  "exam_days_left": 30
+}

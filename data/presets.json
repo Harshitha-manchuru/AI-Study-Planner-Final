@@ -1,0 +1,42 @@
+{
+  "DBMS": {
+    "subjects": {
+      "DBMS": [
+        "ER Model",
+        "Normalization",
+        "Indexing",
+        "Transactions",
+        "Joins"
+      ]
+    },
+    "weak_topics": ["Normalization", "Joins"],
+    "daily_study_hours": 3
+  },
+
+  "Python": {
+    "subjects": {
+      "Python": [
+        "Variables",
+        "Loops",
+        "Functions",
+        "OOP",
+        "File Handling"
+      ]
+    },
+    "weak_topics": ["OOP", "File Handling"],
+    "daily_study_hours": 2
+  },
+
+  "Aptitude": {
+    "subjects": {
+      "Aptitude": [
+        "Percentages",
+        "Profit and Loss",
+        "Time and Work",
+        "Probability"
+      ]
+    },
+    "weak_topics": ["Probability"],
+    "daily_study_hours": 2
+  }
+}
